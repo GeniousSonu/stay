@@ -83,11 +83,10 @@ To set up STAY locally on your machine, follow these steps:
 
 STAY is developed by a team of passionate individuals dedicated to delivering a top-notch hotel booking experience:
 
-- **John Doe** - Frontend Developer
-- **Jane Smith** - Backend Developer
-- **Alice Johnson** - UI/UX Designer
-- **Bob Williams** - Database Administrator
-
+- **Shekar Maiti** - 
+- **Teerath Kundu** - 
+- **Ankan Sen** -
+- **SK SAHINUR ISLAM** - 
 ## Feedback and Support
 
 We are constantly striving to improve STAY and welcome any feedback or suggestions you may have. If you encounter any issues or require assistance, please don't hesitate to reach out to us at stay-support@example.com.
